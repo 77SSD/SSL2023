@@ -1,0 +1,9 @@
+CC=gcc
+CFLAGS += -Wall
+CFLAGS += -I/home/user/Document/Makefile-Examples/Makefile4
+TARGET =math_pro
+LDLIBS = -lm
+all: $(TARGET)
+$(TARGET): main.o hello.o
+$(CC) main.o hello.o -o $@ $(LDLIBS)
+ $(CFLAGS) main.c 

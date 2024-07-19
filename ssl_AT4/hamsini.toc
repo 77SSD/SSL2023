@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Structures}{3}{0}{1}
+\beamer@sectionintoc {2}{Tables}{9}{0}{2}
+\beamer@sectionintoc {3}{Transitions}{21}{0}{3}
+\beamer@sectionintoc {4}{Figures}{25}{0}{4}
+\beamer@sectionintoc {5}{Mathematics}{26}{0}{5}
+\beamer@sectionintoc {6}{Our Section of Lists}{36}{0}{6}

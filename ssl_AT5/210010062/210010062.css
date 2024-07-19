@@ -1,0 +1,118 @@
+body{
+  
+}
+h1{
+  text-align: center;
+  font-size: 3rem;
+}
+h2{
+  margin-left: 20px;
+            color: white;
+            text-align: left;
+            margin-bottom:5px;
+}
+.input{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  left:20px;
+  text-align: left;
+  font-size: 15px;
+  width: 500px;
+  padding:5px;
+  border-radius: 150px;
+}
+.pc{ 
+  background-color: green;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+p{
+font-size: 2rem;
+color: white;
+text-align: center;
+margin-bottom: -5px;
+}
+.firstname{
+  width: 225px;
+  height: 25px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 5px;
+  font-size:4;
+  padding: 1px;
+}
+label{
+  text-align: left;
+}
+.customername{
+  
+  display: flex;
+  padding:1px
+  
+}
+.customeraddr{
+    display: flex;
+    flex-direction: column;
+    padding:0.5px;
+}
+.personal{
+margin-left: 10px;
+
+}
+.Addr{
+  width: 500px;
+  height: 25px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 5px;
+  padding:1px;
+}
+.dropdown{
+  width: 390px;
+  height: 25px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 5px;
+  color: gray;
+  padding: 5px;
+  font: size 1px;;
+}
+.rat{
+  margin-bottom: 20px;
+  display: flex;
+  gap:25px;
+}
+form{
+  
+   text-align: left;
+}
+.box {
+  margin: 25px 100px;
+  border: 1px solid white;
+  max-width: 555px;
+  display: relative;
+  left:1000px;
+}
+.ratings{
+  margin-bottom: 20px;
+  display: flex;
+  gap:25px;
+}
+.subm{
+  text-align:center;
+}
+.ss{
+  background-color: blue;
+  border-radius: 4.5px;
+  border-color: white;
+  color: white;
+  border:1px solid white;
+  width :60px;
+  height : 25px;
+  margin-bottom: 20px;
+}
+-----------------------------------------------------------------------------------------------------------------------

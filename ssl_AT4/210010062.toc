@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Structures}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Stepwise viewing}{3}{0}{1}
+\beamer@sectionintoc {2}{Tables}{6}{0}{2}
+\beamer@sectionintoc {3}{Transitions}{19}{0}{3}
+\beamer@sectionintoc {4}{Figures}{23}{0}{4}
+\beamer@sectionintoc {5}{Mathematics}{24}{0}{5}
+\beamer@sectionintoc {6}{Our Section of Lists}{34}{0}{6}

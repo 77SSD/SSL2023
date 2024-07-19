@@ -1,0 +1,237 @@
+
+\documentclass[pdf]{beamer}
+\usepackage[utf8]{inputenc}
+\usetheme{Berlin}
+\useinnertheme{circles}
+\usepackage{colortbl}
+\usefonttheme{serif}
+\usecolortheme{default}
+
+\title{Assignment}
+\subtitle {CS213,Software Systems Lab}
+\author{Sakeena Dodda  \\
+     Computer Science and Engineering \\
+     210010062@iitdh.ac.in }     
+\date{\today}     
+\begin{document}
+\begin{frame}
+\titlepage
+\end{frame}
+
+
+\begin{frame}{Structures}
+\begin{block}{Theorem: Magic}
+My name is Alt Temporal.I can do magic by changing myself in different slides.
+\end{block}
+\begin{alertblock}{The Truth}
+No don't trust him he doesn't do magic
+\end{alertblock}
+\end{frame}
+
+\begin{frame}{Structures}
+\begin{block}{Theorem: Magic}
+I have done the magic. You should have trusted me earlier before I have done the magic.
+\end{block}
+\begin{alertblock}{The Truth}
+I was just joking, The above person actually does the magic and
+also I can do it.
+\end{alertblock}
+\end{frame}
+
+\section{Structures}
+	\begin{frame}
+	\frametitle{structures with columns} 
+	\begin{columns}
+			\begin{column}{.45\textwidth}
+				\begin{alertblock}{Alert column}
+					Remain alert for the red light
+				\end{alertblock}
+		\end{column}
+		\begin{column}
+			\begin{exampleblock}{To Go}
+			green light means to go to past.
+			
+			\end{exampleblock}
+		\end{column}
+		\begin{column}
+\begin{block}{Test Your Skills}
+There wont be any blue light at signal
+\end{block}		
+\end{column}
+\begin{column}
+\begin{exampleblock}{Extra Info}
+Green is also the color of this example lock
+\end{exampleblock}			
+		\end{column} 
+\end{columns}
+\end{frame}
+\begin{frame}{Table Frame 1}
+
+
+
+
+
+
+
+
+
+
+\end{frame}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[pdf]{beamer}
+\usepackage[utf8]{inputenc}
+\usetheme{Berlin}
+\useinnertheme{circles}
+\usepackage{colortbl}
+\usefonttheme{serif}
+\usecolortheme{default}
+
+\title{Assignment}
+\subtitle {CS213,Software Systems Lab}
+\author{Sakeena Dodda  \\
+     Computer Science and Engineering \\
+     210010062@iitdh.ac.in }     
+\date{\today}     
+\begin{document}
+\begin{frame}
+\titlepage
+\end{frame}
+
+
+\begin{frame}{Structures}
+\begin{block}{Theorem: Magic}
+My name is Alt Temporal.I can do magic by changing myself in different slides.
+\end{block}
+\begin{alertblock}{The Truth}
+No don't trust him he doesn't do magic
+\end{alertblock}
+\end{frame}
+
+\begin{frame}{Structures}
+\begin{block}{Theorem: Magic}
+I have done the magic. You should have trusted me earlier before I have done the magic.
+\end{block}
+\begin{alertblock}{The Truth}
+I was just joking, The above person actually does the magic and
+also I can do it.
+\end{alertblock}
+\end{frame}
+
+\section{Structures}
+	\begin{frame}
+	\frametitle{structures with columns} 
+	\begin{columns}
+			\begin{column}{.45\textwidth}
+				\begin{alertblock}{Alert column}
+					Remain alert for the red light
+				\end{alertblock}
+		\end{column}
+		\begin{column}
+			\begin{exampleblock}{To Go}
+			green light means to go to past.
+			
+			\end{exampleblock}
+		\end{column}
+		\begin{column}
+\begin{block}{Test Your Skills}
+There wont be any blue light at signal
+\end{block}		
+\end{column}
+\begin{column}
+\begin{exampleblock}{Extra Info}
+Green is also the color of this example lock
+\end{exampleblock}			
+		\end{column} 
+\end{columns}
+\end{frame}
+\begin{frame}{Table Frame 1}
+
+
+
+
+
+
+
+
+
+
+\end{frame}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
